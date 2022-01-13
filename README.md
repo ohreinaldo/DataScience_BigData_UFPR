@@ -1,7 +1,5 @@
 # DataScience_BigData_UFPR
 
-# DataScience_BigData_UFPR
-
 Title: Exploring classification algorithms for network device recognition / Exploração de algoritmos de classificação para reconhecimento de dispositivos da rede
 
 Abstract / Resumo:
